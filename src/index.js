@@ -355,9 +355,9 @@ export default class MapboxDrawPro extends MapboxDraw {
       });
 
       setTimeout(() => {
-        map.addControl(additionalTools(draw), placement);
+        // map.addControl(additionalTools(draw), placement);
         map.addControl(snapOptionsBar, placement);
-      }, 400);
+      }, 200);
     };
 
     this.onAdd = (map, placement) => {
