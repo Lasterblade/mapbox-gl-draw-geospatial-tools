@@ -1,5 +1,5 @@
 {
-    "name": "@map.ir/mapbox-gl-draw-geospatial-tools",
+    "name": "@cogumelos/mapbox-gl-draw-geospatial-tools",
     "version": "0.3.1",
     "description": "Advanced tools for geospatial edit and analysis based on Mapbox Gl Draw",
     "main": "dist/index.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/map-ir/mapbox-gl-draw-geospatial-tools.git"
+        "url": "git+https://github.com/Lasterblade/mapbox-gl-draw-geospatial-tools.git"
     },
     "keywords": [
         "mapbox",
@@ -19,15 +19,16 @@
         "geospatial",
         "geojson"
     ],
-    "author": "Reyhane Masumi",
+    "author": "Lasterblade",
     "contributors": [
+        "Reyhane Masumi"
         "Mohammad H. Sattarian"
     ],
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/map-ir/mapbox-gl-draw-geospatial-tools/issues"
+        "url": "https://github.com/Lasterblade/mapbox-gl-draw-geospatial-tools/issues"
     },
-    "homepage": "https://github.com/map-ir/mapbox-gl-draw-geospatial-tools#readme",
+    "homepage": "https://github.com/Lasterblade/mapbox-gl-draw-geospatial-tools#readme",
     "files": [
         "dist",
         "src"
